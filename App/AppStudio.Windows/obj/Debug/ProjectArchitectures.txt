@@ -1,0 +1,2 @@
+C:\Users\Pawel\Desktop\App\AppStudio.Data\AppStudio.Data.csproj;neutral
+C:\Users\Pawel\Desktop\App\AppStudio.Windows\AppStudio.Windows.csproj;neutral

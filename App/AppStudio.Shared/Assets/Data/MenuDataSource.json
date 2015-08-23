@@ -1,0 +1,16 @@
+{
+  "Items": [
+    {
+      "Type": "Url",
+      "Title": "MailToMe",
+      "Icon": "/Assets/DataImages/message.png",
+      "Target": "mailto:korytko07@interia.pl"
+    },
+    {
+      "Type": "Section",
+      "Title": "AboutApp",
+      "Icon": "/Assets/DataImages/help.png",
+      "Target": "AboutAppPage"
+    }
+  ]
+}

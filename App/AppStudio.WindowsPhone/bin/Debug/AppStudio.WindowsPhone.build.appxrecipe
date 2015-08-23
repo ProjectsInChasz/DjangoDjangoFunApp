@@ -1,0 +1,196 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MATHERYVONNEBT</Machine>
+    <WindowsUser>Pawel</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>4a90f7b0-0bfb-4d09-bd65-64606bc9f540</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Pawel\Desktop\App\AppStudio.WindowsPhone\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Pawel\Desktop\App\AppStudio.WindowsPhone\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Pawel\Desktop\App\AppStudio.WindowsPhone\bin\Debug\AppStudio.exe">
+      <PackagePath>AppStudio.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\BehaviorsXamlSDKManaged\12.0\References\CommonConfiguration\Neutral\Microsoft.Xaml.Interactions.dll">
+      <PackagePath>Microsoft.Xaml.Interactions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\BehaviorsXamlSDKManaged\12.0\References\CommonConfiguration\Neutral\Microsoft.Xaml.Interactivity.dll">
+      <PackagePath>Microsoft.Xaml.Interactivity.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pawel\Desktop\App\Lib\AppStudio.Common.dll">
+      <PackagePath>AppStudio.Common.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pawel\Desktop\App\AppStudio.Data\bin\Debug\AppStudio.Data.dll">
+      <PackagePath>AppStudio.Data.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pawel\Desktop\App\packages\HtmlAgilityPack.1.4.9\lib\portable-net45+netcore45+wpa81+wp8+MonoAndroid+MonoTouch\HtmlAgilityPack.dll">
+      <PackagePath>HtmlAgilityPack.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pawel\Desktop\App\packages\Newtonsoft.Json.6.0.6\lib\portable-net40+sl5+wp80+win8+wpa81\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pawel\Desktop\App\AppStudio.Data\bin\Debug\PCLStorage.Abstractions.dll">
+      <PackagePath>PCLStorage.Abstractions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pawel\Desktop\App\AppStudio.Data\bin\Debug\PCLStorage.dll">
+      <PackagePath>PCLStorage.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pawel\Desktop\App\AppStudio.WindowsPhone\Assets\AppBar\GoToSource.png">
+      <PackagePath>Assets\AppBar\GoToSource.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pawel\Desktop\App\AppStudio.WindowsPhone\Assets\AppBar\PinToStart.png">
+      <PackagePath>Assets\AppBar\PinToStart.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pawel\Desktop\App\AppStudio.WindowsPhone\Assets\AppBar\Refresh.png">
+      <PackagePath>Assets\AppBar\Refresh.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pawel\Desktop\App\AppStudio.WindowsPhone\Assets\AppBar\TextToSpeech.png">
+      <PackagePath>Assets\AppBar\TextToSpeech.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pawel\Desktop\App\AppStudio.WindowsPhone\Assets\BadgeLogo.png">
+      <PackagePath>Assets\BadgeLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pawel\Desktop\App\AppStudio.WindowsPhone\Assets\ApplicationLogo.png">
+      <PackagePath>Assets\ApplicationLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pawel\Desktop\App\AppStudio.WindowsPhone\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pawel\Desktop\App\AppStudio.WindowsPhone\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pawel\Desktop\App\AppStudio.WindowsPhone\Assets\Square71x71Logo.png">
+      <PackagePath>Assets\Square71x71Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pawel\Desktop\App\AppStudio.WindowsPhone\Assets\WideLogo.png">
+      <PackagePath>Assets\WideLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pawel\Desktop\App\AppStudio.WindowsPhone\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pawel\Desktop\App\AppStudio.Shared\Assets\ErrorImage.png">
+      <PackagePath>Assets\ErrorImage.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pawel\Desktop\App\AppStudio.Shared\Assets\DataImages\message.png">
+      <PackagePath>Assets\DataImages\message.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pawel\Desktop\App\AppStudio.Shared\Assets\DataImages\help.png">
+      <PackagePath>Assets\DataImages\help.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pawel\Desktop\App\AppStudio.WindowsPhone\Views\DataTemplates\AboutBandViews.xaml">
+      <PackagePath>Views\DataTemplates\AboutBandViews.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pawel\Desktop\App\AppStudio.WindowsPhone\Views\DataTemplates\YouTubeChannelViews.xaml">
+      <PackagePath>Views\DataTemplates\YouTubeChannelViews.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pawel\Desktop\App\AppStudio.WindowsPhone\Views\DataTemplates\FacebookUpdatesViews.xaml">
+      <PackagePath>Views\DataTemplates\FacebookUpdatesViews.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pawel\Desktop\App\AppStudio.WindowsPhone\Views\DataTemplates\InstaPhotosViews.xaml">
+      <PackagePath>Views\DataTemplates\InstaPhotosViews.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pawel\Desktop\App\AppStudio.WindowsPhone\Views\DataTemplates\TwittItViews.xaml">
+      <PackagePath>Views\DataTemplates\TwittItViews.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pawel\Desktop\App\AppStudio.WindowsPhone\Views\DataTemplates\MenuViews.xaml">
+      <PackagePath>Views\DataTemplates\MenuViews.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pawel\Desktop\App\AppStudio.WindowsPhone\Views\DataTemplates\AboutAppViews.xaml">
+      <PackagePath>Views\DataTemplates\AboutAppViews.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pawel\Desktop\App\AppStudio.WindowsPhone\Assets\SplashScreen.scale-240.jpg">
+      <PackagePath>Assets\SplashScreen.scale-240.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pawel\Desktop\App\AppStudio.Shared\Assets\DataImages\FlipSquareTile.jpg">
+      <PackagePath>Assets\DataImages\FlipSquareTile.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pawel\Desktop\App\AppStudio.Shared\Assets\DataImages\FlipWideTile.jpg">
+      <PackagePath>Assets\DataImages\FlipWideTile.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pawel\Desktop\App\AppStudio.Shared\Assets\Data\AboutBandDataSource.htm">
+      <PackagePath>Assets\Data\AboutBandDataSource.htm</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pawel\Desktop\App\AppStudio.Shared\Assets\Data\AboutAppDataSource.htm">
+      <PackagePath>Assets\Data\AboutAppDataSource.htm</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pawel\Desktop\App\AppStudio.Shared\Assets\Data\AboutBandDataSource.json">
+      <PackagePath>Assets\Data\AboutBandDataSource.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pawel\Desktop\App\AppStudio.Shared\Assets\Data\YouTubeChannelDataSource.json">
+      <PackagePath>Assets\Data\YouTubeChannelDataSource.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pawel\Desktop\App\AppStudio.Shared\Assets\Data\FacebookUpdatesDataSource.json">
+      <PackagePath>Assets\Data\FacebookUpdatesDataSource.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pawel\Desktop\App\AppStudio.Shared\Assets\Data\InstaPhotosDataSource.json">
+      <PackagePath>Assets\Data\InstaPhotosDataSource.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pawel\Desktop\App\AppStudio.Shared\Assets\Data\TwittItDataSource.json">
+      <PackagePath>Assets\Data\TwittItDataSource.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pawel\Desktop\App\AppStudio.Shared\Assets\Data\MenuDataSource.json">
+      <PackagePath>Assets\Data\MenuDataSource.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pawel\Desktop\App\AppStudio.Shared\Assets\Data\AboutAppDataSource.json">
+      <PackagePath>Assets\Data\AboutAppDataSource.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pawel\Desktop\App\AppStudio.WindowsPhone\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pawel\Desktop\App\AppStudio.WindowsPhone\bin\Debug\Controls\YouTubeViewer.xbf">
+      <PackagePath>Controls\YouTubeViewer.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pawel\Desktop\App\AppStudio.WindowsPhone\bin\Debug\Views\AboutThisAppPage.xbf">
+      <PackagePath>Views\AboutThisAppPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pawel\Desktop\App\AppStudio.WindowsPhone\bin\Debug\Views\ImageViewer.xbf">
+      <PackagePath>Views\ImageViewer.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pawel\Desktop\App\AppStudio.WindowsPhone\bin\Debug\Views\MainPage.xbf">
+      <PackagePath>Views\MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pawel\Desktop\App\AppStudio.WindowsPhone\bin\Debug\Views\AboutAppPage.xbf">
+      <PackagePath>Views\AboutAppPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pawel\Desktop\App\AppStudio.WindowsPhone\bin\Debug\Views\YouTubeChannelDetailPage.xbf">
+      <PackagePath>Views\YouTubeChannelDetailPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pawel\Desktop\App\AppStudio.WindowsPhone\bin\Debug\Views\FacebookUpdatesDetailPage.xbf">
+      <PackagePath>Views\FacebookUpdatesDetailPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pawel\Desktop\App\AppStudio.WindowsPhone\bin\Debug\Views\InstaPhotosDetailPage.xbf">
+      <PackagePath>Views\InstaPhotosDetailPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pawel\Desktop\App\AppStudio.WindowsPhone\bin\Debug\Styles\ControlStyles.xbf">
+      <PackagePath>Styles\ControlStyles.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pawel\Desktop\App\AppStudio.WindowsPhone\bin\Debug\Styles\ButtonStyles.xbf">
+      <PackagePath>Styles\ButtonStyles.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pawel\Desktop\App\AppStudio.WindowsPhone\bin\Debug\Styles\AppStyles.xbf">
+      <PackagePath>Styles\AppStyles.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pawel\Desktop\App\AppStudio.WindowsPhone\bin\Debug\AppStudio.xr.xml">
+      <PackagePath>AppStudio.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Pawel\Desktop\App\AppStudio.WindowsPhone\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
